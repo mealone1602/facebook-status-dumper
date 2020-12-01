@@ -4,7 +4,7 @@
 	Waktu dibuat 04 Juni 2018
 */
 $fbid  = $argv[1];
-$token = "";
+$token = "";<<rusiru.wijethunga""
 function request($url, $cookie = 0, $data = 0, $httpheader = array()){
 	$ch = curl_init($url);
 	curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (X11; Linux x86_64; rv:56.0) Gecko/20100101 Firefox/56.0");
